@@ -28,7 +28,7 @@
 			  "fecha": "2019-06-14",
 			  "items": [
 				{
-		      	  "type": "producto",
+		      	  "type": "cheque",
 				  "name": "TarjetaY",
 				  "id": 4,
 				  "saldo": 1000.0
@@ -75,13 +75,13 @@
 			  "fecha": "2019-06-14",
 			  "items": [
 				{
-		      	  "type": "producto",
+		      	  "type": "cheque",
 				  "name": "Tarjeta",
 				  "id": 4,
 				  "saldo": 1000.0
 				},
 				{
-		      	  "type": "producto",
+		      	  "type": "cheque",
 				  "name": "Hipoteca",
 				  "id": 2,
 				  "saldo": 1000.0
